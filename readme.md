@@ -2,6 +2,7 @@
 
 * [mp-game](https://mp-game.herokuapp.com/)
 
+
 __Goal__: Production of a client-side Web application to help a child understand multiplication.
 
 __Description__: The application will display a grid of all numbers from 1 to 144 evenly laid out with a large clickable box around each number. When the child clicks a box then all the numbers which are a multiple of that number are highlighted. Clicking a second time on a previously highlighted number removes all highlighting from numbers that are multiples of the number that is clicked.
